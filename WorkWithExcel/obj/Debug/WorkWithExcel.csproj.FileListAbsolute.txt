@@ -1,0 +1,9 @@
+c:\users\tran\documents\visual studio 2017\Projects\WorkWithExecl\WorkWithExecl\bin\Debug\WorkWithExecl.exe.config
+c:\users\tran\documents\visual studio 2017\Projects\WorkWithExecl\WorkWithExecl\bin\Debug\WorkWithExecl.exe
+c:\users\tran\documents\visual studio 2017\Projects\WorkWithExecl\WorkWithExecl\bin\Debug\WorkWithExecl.pdb
+c:\users\tran\documents\visual studio 2017\Projects\WorkWithExecl\WorkWithExecl\bin\Debug\ExcelDataReader.dll
+c:\users\tran\documents\visual studio 2017\Projects\WorkWithExecl\WorkWithExecl\bin\Debug\ExcelDataReader.xml
+c:\users\tran\documents\visual studio 2017\Projects\WorkWithExecl\WorkWithExecl\obj\Debug\WorkWithExcel.csprojResolveAssemblyReference.cache
+c:\users\tran\documents\visual studio 2017\Projects\WorkWithExecl\WorkWithExecl\obj\Debug\WorkWithExcel.csproj.CoreCompileInputs.cache
+c:\users\tran\documents\visual studio 2017\Projects\WorkWithExecl\WorkWithExecl\obj\Debug\WorkWithExecl.exe
+c:\users\tran\documents\visual studio 2017\Projects\WorkWithExecl\WorkWithExecl\obj\Debug\WorkWithExecl.pdb
